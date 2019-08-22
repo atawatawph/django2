@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-21 10:08+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: atawph/templates/base.html:140
+msgid "Our Mission"
+msgstr "宗旨"
+
+#: atawph/templates/base.html:152
+msgid "Our Vision"
+msgstr "愿景"
+
+#: atawph/templates/base.html:230
+msgid "__all__"
+msgstr ""
+
+#: atawph/views.py:16
+msgid "Home"
+msgstr "主页"
+
+#: atawph/views.py:17
+msgid "About"
+msgstr "关于"
+
+#: atawph/views.py:18
+msgid "Organization"
+msgstr "组织"
+
+#: atawph/views.py:19
+msgid "Career"
+msgstr "事业"
+
+#: atawph/views.py:20
+msgid "Contact"
+msgstr "联系"
